@@ -2,7 +2,7 @@
 
 _by Tasmiya 💗_
 
-### 🔗*Live Link* -: [ Headphones]()
+### 🔗*Live Link* -: [ Headphones](https://tasmiya-proj-7.netlify.app)
 
 ![ Headphones](./7.png)
 
